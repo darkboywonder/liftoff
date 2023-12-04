@@ -1,4 +1,4 @@
-# Animotion
+# Lfitoff Slides
 
 This is an Animotion presentation.
 
@@ -31,4 +31,3 @@ Build and preview deploy.
 ```sh
 pnpm run build && pnpm run preview
 ```
-# Lfitoff Slides
