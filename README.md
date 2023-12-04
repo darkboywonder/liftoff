@@ -3,6 +3,16 @@
 This is an Animotion presentation.
 
 ## Setup
+Install pnpm
+
+```sh
+npm install pnpm
+```
+or globally
+
+```sh
+npm install -g pnpm
+```
 
 Install dependencies.
 
