@@ -35,8 +35,10 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-      - name: Install dependencies
-        run: npm install
+      - name: Install pnpm
+        run: npm install pnpm
+      - name: run pnpm install
+        run: pnpm i
       - name: Build
         run: npm run build
       - name: Setup Pages
